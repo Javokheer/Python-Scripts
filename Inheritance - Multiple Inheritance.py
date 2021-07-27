@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  5 08:03:37 2021
-
-@author: acer
-"""
-
 #Inheritance
 class Parent:
     def __init__(self, a):
